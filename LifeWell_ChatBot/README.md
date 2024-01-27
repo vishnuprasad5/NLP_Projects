@@ -19,6 +19,7 @@ LifeWell ChatBot is a conversational interface that simplifies hospital interact
 
 - **Dialogflow:** Demonstrates my expertise in natural language processing for effective communication.
 - **MySQL Database:** Illustrates my skills in database management, storing and retrieving appointment details and consultation results.
+- **Python:** Utilized for implementing backend logic and integrating different components.
 - **Figma:** Highlights my ability to design an intuitive non-interactive website interface.
 
 ## Showcase
