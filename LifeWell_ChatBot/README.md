@@ -2,6 +2,8 @@
 
 Welcome to the LifeWell ChatBot, a showcase project in my portfolio. This virtual assistant is designed to demonstrate my skills in natural language processing, database management, and user interface design.
 
+https://github.com/vishnuprasad5/NLP_Projects/assets/132830156/3dfe79d6-17de-4394-a893-ef246c9f8527
+
 ## Overview
 
 LifeWell ChatBot is a conversational interface that simplifies hospital interactions, allowing users to manage appointments, check appointment status, and access consultation results. This project showcases my proficiency in integrating various technologies to create a seamless and user-friendly experience.
