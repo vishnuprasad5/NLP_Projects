@@ -22,7 +22,6 @@ body {
             font-size: 16px;
         }
 
-        /* Add your styles for the chatbot image here */
         #chatbot-image {
             position: fixed;
             bottom: 20px;
@@ -32,7 +31,6 @@ body {
             cursor: pointer;
         }
 
-        /* Add your styles for the chatbot container here */
         #chatbot-container {
             display: none;
             position: fixed;
