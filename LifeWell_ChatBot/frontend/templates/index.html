@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LifeWell Hospital</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+<button id="chatbot-button">Chat with us</button>
+<img id="chatbot-image" src="chat.png" alt="Chatbot Image">
+
+
+<div id="chatbot-container">
+    <iframe
+        allow="microphone;"
+        width="100%"
+        height="100%"
+        src="https://console.dialogflow.com/api-client/demo/embedded/a97252a5-e3c9-4cc4-9004-cca710065d02"
+        allowfullscreen>
+    </iframe>
+    <button onclick="toggleChatbot()"></button>
+</div>
+
+<script>
+    function toggleChatbot() {
+        var chatbotContainer = document.getElementById('chatbot-container');
+        chatbotContainer.style.display = chatbotContainer.style.display === 'none' ? 'block' : 'none';
+    }
+    document.getElementById('chatbot-button').addEventListener('click', toggleChatbot);
+    document.getElementById('chatbot-image').addEventListener('click', toggleChatbot);
+</script>
+
+</body>
+</body>
+</html>
